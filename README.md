@@ -1,5 +1,5 @@
 # code-quiz
-I created a timed quiz for a boot camp student.At the end of the quiz the user will be able to check his/her score and a list of the latest scores.
+I created a timed quiz for a boot camp student.At the end of the quiz the user will be able to check his/her score and a list of the latest scores.The timer on the quiz will be dreceased by ten seconds everytime there is a wrong answer.
 ## Languajes
 HTML,CSS, JavaScript. 
 ##  link
