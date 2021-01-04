@@ -4,7 +4,7 @@ I created a timed quiz for a boot camp student. At the end of the quiz the user 
 HTML,CSS, JavaScript. 
 ##  link
 The page can be found at:
-<a href="https://martha121.github.io/code-quiz/"> martha121.github.io/</a>
+<a href="https://martha121.github.io/code-quiz/"> martha121.github.io/code-quiz</a>
 
 # Screenshot
 ![Code Quiz screenshot](./assets/images/code-quiz4.jpg)
